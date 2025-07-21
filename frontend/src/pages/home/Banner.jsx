@@ -10,8 +10,10 @@ const Banner = () => {
         </div>
         
         <div className='md:w-1/2 w-full'>
-            <h1 className='md:text-5xl text-2xl font-medium mb-7'>New Releases This Week</h1>
-            <p className='mb-10'>It's time to update your reading list with some of the latest and greatest releases in the literary world. From heart-pumping thrillers to captivating memoirs, this week's new releases offer something for everyone</p>
+            <h1 className='md:text-5xl text-2xl font-medium mb-7'>Build Your Future, One Page at a Time</h1>
+            <p className='mb-10'>Whether you're preparing for GATE, UPSC, or real-world projects—designing bridges, managing construction, or mastering soil mechanics—this week's releases are your strongest blueprint for success.
+
+</p>
 
             <button className='btn-primary'>Subscribe</button>
         </div>
